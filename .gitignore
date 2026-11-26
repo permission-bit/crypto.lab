@@ -148,3 +148,4 @@ onion.txt
 *.mp4
 raas_tor/web/builds/
 server_setup/
+debug*
